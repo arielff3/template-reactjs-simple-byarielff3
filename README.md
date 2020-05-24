@@ -23,15 +23,14 @@
 
 ##### Use
 -------
-> 'yarn install'
+> yarn install
 -------
-> 'yarn start'
+> yarn start
 
 
 
 
 
-#### End
 
-__By__: _Ariel Franco_:rocket:
+__By__: _Ariel Franco_ :rocket:
 
